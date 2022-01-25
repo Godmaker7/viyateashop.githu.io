@@ -1,1 +1,1 @@
-# viyateashop.githu.io
+# viyateashop.github.io
